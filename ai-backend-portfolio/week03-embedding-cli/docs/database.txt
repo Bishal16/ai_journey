@@ -1,0 +1,1 @@
+database is one of the very essential part of modern software development. almost all the software now a days use one kind of software to store data and configurations. there are basically 2 types of databsae system popular now a days for traditional software development. one is sql and another is no sql.
