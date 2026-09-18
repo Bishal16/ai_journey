@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+langchain==0.3.25
+langchain-groq==0.2.5
+langchain-community==0.3.25
+tavily-python
+python-dotenv
