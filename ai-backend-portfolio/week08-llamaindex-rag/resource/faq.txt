@@ -1,0 +1,11 @@
+Q: How do I reset my password?
+A: Click forgot password on the login page and enter your email.
+
+Q: What payment methods do you accept?
+A: We accept Visa, Mastercard, and PayPal.
+
+Q: How do I cancel my subscription?
+A: Go to Settings > Billing > Cancel Subscription.
+
+Q: Is my data secure?
+A: Yes, all data is encrypted at rest and in transit using AES-256.

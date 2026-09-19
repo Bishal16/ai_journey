@@ -1,0 +1,7 @@
+API Rate Limits:
+- Free tier: 100 requests per minute
+- Pro tier: 1000 requests per minute
+- Authentication: Bearer token in Authorization header
+- Endpoint base URL: https://api.example.com/v1
+- POST /chat accepts JSON body with message and session_id fields
+- GET /health returns status ok
